@@ -1,0 +1,6 @@
+-r requirements.txt
+jupyterlab>=4,<5
+sentence-transformers>=3,<6
+faiss-cpu>=1.9,<2
+numpy>=1.26,<3
+pydub>=0.25,<0.26

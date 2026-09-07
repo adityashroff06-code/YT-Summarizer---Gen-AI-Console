@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+*.log
+.pytest_cache/
+.ruff_cache/
+artifacts/
+temp_chunk_*.mp3
+lecture_audio*

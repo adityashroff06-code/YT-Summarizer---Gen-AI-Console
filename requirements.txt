@@ -1,0 +1,4 @@
+openai>=1.68,<3
+yt-dlp>=2025.11.12,<2027
+python-dotenv>=1,<2
+gradio>=5.23,<7
