@@ -11,3 +11,8 @@ __pycache__/
 artifacts/
 temp_chunk_*.mp3
 lecture_audio*
+
+# Local media (never commit recordings)
+*.mp4
+*.mkv
+*.webm
